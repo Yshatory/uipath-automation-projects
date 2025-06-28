@@ -1,0 +1,14 @@
+# UiPath and Visual Studio typical ignores
+*.local
+*.user
+*.suo
+*.nupkg
+.vs/
+obj/
+bin/
+packages/
+.project/
+.idea/
+*.xlsx
+*.xlsm
+*.xls
