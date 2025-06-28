@@ -1,2 +1,17 @@
-# uipath-automation-projects
-Collection of real-world UiPath automation workflows solving business and data challenges
+# 🤖 UiPath Automation Projects
+
+This repository contains automation projects built using UiPath, Excel, and AI tools to solve real-world business problems.
+
+---
+
+## 📁 Projects
+
+- [`excel-rootcause-extractor`](./excel-rootcause-extractor) – Extracts root cause and solution from outage logs using Excel & UiPath & AI .
+
+---
+
+## 🔧 Tools Used
+
+- UiPath Studio (Classic & Modern)
+- Excel
+- AI content generation ( gimini 2.0 model )
