@@ -13,6 +13,3 @@ Logs/
 # Ignore system/IDE junk
 .DS_Store
 Thumbs.db
-
-# Optional: ignore user-specific Excel or config files
-# TT_Raw_Data.xlsx
