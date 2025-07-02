@@ -1,5 +1,9 @@
 # 🧠 UiPath - TT-resolver
 
+![UiPath](https://img.shields.io/badge/UiPath-Automation-blue)
+![AI](https://img.shields.io/badge/AI-Content_Generation-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 **TT-resolver** is an AI-powered UiPath automation that analyzes Technical Ticket (TT) logs, identifies the root cause, and suggests a solution. This tool is especially useful for telecom or IT operation centers to streamline ticket resolution.
 
 ---
