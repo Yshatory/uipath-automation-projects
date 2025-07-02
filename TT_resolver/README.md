@@ -63,7 +63,7 @@ Solution   : Repaired the blower motor and reset it.
 
 ## 📸 Workflow Overview
 
-![Workflow Diagram](uipath_excel_extractor_workflow.png)
+![Workflow Diagram](workflow.png)
 
 ---
 
