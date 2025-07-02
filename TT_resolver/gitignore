@@ -1,0 +1,18 @@
+# Ignore temp and system files
+*.local
+*.tmp
+*.log
+
+# Ignore UiPath-specific logs and cache
+Logs/
+.settings/
+.screenshots/
+.cache/
+.project.json.backup
+
+# Ignore system/IDE junk
+.DS_Store
+Thumbs.db
+
+# Optional: ignore user-specific Excel or config files
+# TT_Raw_Data.xlsx
