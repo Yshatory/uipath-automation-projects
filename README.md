@@ -6,7 +6,7 @@ This repository contains automation projects built using UiPath, Excel, and AI t
 
 ## 📁 Projects
 
-- [`excel-rootcause-extractor`](./excel-rootcause-extractor) – Extracts root cause and solution from outage logs using Excel & UiPath & AI .
+- [`TT Resolver`](./TT_resolver) – Extracts root cause and solution from outage logs using Excel & UiPath & AI .
 
 ---
 
